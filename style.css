@@ -1,0 +1,17 @@
+#h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#b1{
+    height: 20%;
+    width: 10%;
+    background-color: blue ;
+    font-weight: bold;
+}
+
+#h2{
+    background-color: darkblue;
+    color: white;
+    border-radius: 20px;
+}
